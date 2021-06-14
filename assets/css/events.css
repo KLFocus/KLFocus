@@ -1,0 +1,45 @@
+section {
+    padding: 80px;
+}
+
+.container-fluid {
+    width: 90%;
+}
+
+.topcontent {
+    padding-top: 50px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.contentbut {
+    height: 50px;
+    max-width: 600px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 0px;
+    background: #ff0157;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.contentbut:hover {
+    letter-spacing: 6px;
+}
+
+.part2 {
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.6), 0 8px 60px 0 rgba(0, 0, 0, 0.39);
+    background: royalblue;
+    color: white;
+}
+
+.clubimgs {
+    height: 40vh;
+    width: 100%;
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+}
