@@ -64,7 +64,7 @@ p, a {font-weight: 400;}
   cursor: pointer;
 }
 .service-work .service-work-vertical {
-	background: rgb(0,0,0);
+	background: rgb(255, 255, 255);
   background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 33.33%, rgba(255,255,255,1) 66.66%, rgba(255,255,255,0) 99.99%);
   background-size: 300% 300%;
   background-position: 0% 100%;
@@ -135,6 +135,6 @@ p, a {font-weight: 400;}
 }
 
 footer a.text-light:hover {
-  color: #111111 !important;
+  color: #cac7c7 !important;
   transition-duration: 0.15s;
 }
